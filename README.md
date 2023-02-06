@@ -63,4 +63,4 @@ equations using Z-transforms
 ```
 # Disclaimer
 * For Educational purpose only
-* harshagarwal94/Differential-and-Difference-Equations is Licensed. 
+* harshagarwal94/Differential-and-Difference-Equations is Open Source Licensed. 
